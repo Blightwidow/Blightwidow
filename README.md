@@ -8,4 +8,4 @@ I am a profesionnal Software and Frontend Engineer. Loves the Web and its capabi
 - Lot's of weird and [random projects](https://github.com/Blightwidow?tab=repositories&type=source)
 - I am beer lover that brew his own. Hit me up if you want to talk homebrew 🍺
 
-You can find more info on my [personal page](https://dammaretz.fr/about) 🌍
+You can find more info on my [personal page](https://dammaretz.fr/) 🌍
